@@ -9,16 +9,6 @@ This study evaluates the algorithms based on:
 - Success Rate (within 10 tries)
 - Average Runtime for 1000 games
 
-
-## Heuristic Methods Implemented
-
-- Genetic Algorithm
-- Constraint Propagation
-- Minimax Strategy
-- Simulated Annealing
-
-The system supports both user-defined and randomly generated secret codes.
-
 ## Implemented Algorithms
 
 ### Genetic Algorithm
@@ -40,6 +30,8 @@ The system supports both user-defined and randomly generated secret codes.
 - Probabilistic search, accepts worse guesses early on
 
 - Slightly less reliable (99.6% success)
+
+The system supports both user-defined and randomly generated secret codes.
 
 ## Insights & Takeaways
 Best for speed: Constraint Propagation
