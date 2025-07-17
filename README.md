@@ -1,5 +1,5 @@
 # MastermindSolver
-This project presents a comparative analysis of heuristic algorithms to solve the Mastermind Game which is a code breaking game in limited trlal.  All algorithms were implemented in Python and evaluated across 1000 randomly generated game scenarios.
+This project presents a comparative analysis of heuristic algorithms to solve the Mastermind Game, a code-breaking game in a limited trial.  All algorithms were implemented in Python and evaluated across 1000 randomly generated game scenarios.
 
 ## Project Overview
 The Mastermind game challenges players to guess a secret color code. After each guess, feedback is provided in the form of black and white pegs representing correct positions and colors. Despite its simple appearance, the game is NP-complete and ideal for testing heuristic algorithms.
@@ -37,9 +37,9 @@ The system supports both user-defined and randomly generated secret codes.
 - Guarantees optimal solution in ≤ 6 guesses
 
 ### Simulated Annealing
--Probabilistic search, accepts worse guesses early on
+- Probabilistic search, accepts worse guesses early on
 
--Slightly less reliable (99.6% success)
+- Slightly less reliable (99.6% success)
 
 ## Insights & Takeaways
 Best for speed: Constraint Propagation
