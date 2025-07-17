@@ -4,7 +4,7 @@ This project presents a comparative analysis of heuristic algorithms to solve th
 ## Project Overview
 The Mastermind game challenges players to guess a secret color code. After each guess, feedback is provided in the form of black and white pegs representing correct positions and colors. Despite its simple appearance, the game is NP-complete and ideal for testing heuristic algorithms.
 
-- This study evaluates the algorithms based on:
+This study evaluates the algorithms based on:
 - Average Number of Guesses (ANG)
 - Success Rate (within 10 tries)
 - Average Runtime for 1000 games
